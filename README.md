@@ -1,2 +1,2 @@
 # Demo
-Java + Selenium + Cucumber + BBD ( Behavior driven development) + POM
+Java, Cucumber, BDD, Selenium
